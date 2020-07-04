@@ -1,0 +1,26 @@
+C:\Users\Ruben mg\Documents\Visual Studio 2015\Projects\Funcionando\SolWebService\WebService\bin\WebService.dll.config
+C:\Users\Ruben mg\Documents\Visual Studio 2015\Projects\Funcionando\SolWebService\WebService\bin\WebService.dll
+C:\Users\Ruben mg\Documents\Visual Studio 2015\Projects\Funcionando\SolWebService\WebService\bin\WebService.pdb
+C:\Users\Ruben mg\Documents\Visual Studio 2015\Projects\Funcionando\SolWebService\WebService\obj\Debug\WebService.csprojResolveAssemblyReference.cache
+C:\Users\Ruben mg\Documents\Visual Studio 2015\Projects\Funcionando\SolWebService\WebService\obj\Debug\WebService.dll
+C:\Users\Ruben mg\Documents\Visual Studio 2015\Projects\Funcionando\SolWebService\WebService\obj\Debug\WebService.pdb
+C:\Users\Ruben mg\Documents\Visual Studio 2015\Projects\Funcionando\SolWebService\WebService\bin\BussinesPersonas.dll
+C:\Users\Ruben mg\Documents\Visual Studio 2015\Projects\Funcionando\SolWebService\WebService\bin\EntityPersonas.dll
+C:\Users\Ruben mg\Documents\Visual Studio 2015\Projects\Funcionando\SolWebService\WebService\bin\DataPersonas.dll
+C:\Users\Ruben mg\Documents\Visual Studio 2015\Projects\Funcionando\SolWebService\WebService\bin\BussinesPersonas.pdb
+C:\Users\Ruben mg\Documents\Visual Studio 2015\Projects\Funcionando\SolWebService\WebService\bin\EntityPersonas.pdb
+C:\Users\Ruben mg\Documents\Visual Studio 2015\Projects\Funcionando\SolWebService\WebService\bin\DataPersonas.pdb
+C:\Users\ruben\Downloads\Projects\Funcionando\SolWebService\WebService\bin\WebService.dll.config
+C:\Users\ruben\Downloads\Projects\Funcionando\SolWebService\WebService\bin\WebService.dll
+C:\Users\ruben\Downloads\Projects\Funcionando\SolWebService\WebService\bin\WebService.pdb
+C:\Users\ruben\Downloads\Projects\Funcionando\SolWebService\WebService\bin\BussinesPersonas.dll
+C:\Users\ruben\Downloads\Projects\Funcionando\SolWebService\WebService\bin\EntityPersonas.dll
+C:\Users\ruben\Downloads\Projects\Funcionando\SolWebService\WebService\bin\DataPersonas.dll
+C:\Users\ruben\Downloads\Projects\Funcionando\SolWebService\WebService\bin\BussinesPersonas.pdb
+C:\Users\ruben\Downloads\Projects\Funcionando\SolWebService\WebService\bin\EntityPersonas.pdb
+C:\Users\ruben\Downloads\Projects\Funcionando\SolWebService\WebService\bin\DataPersonas.pdb
+C:\Users\ruben\Downloads\Projects\Funcionando\SolWebService\WebService\obj\Debug\WebService.csprojAssemblyReference.cache
+C:\Users\ruben\Downloads\Projects\Funcionando\SolWebService\WebService\obj\Debug\WebService.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Downloads\Projects\Funcionando\SolWebService\WebService\obj\Debug\WebService.csproj.CopyComplete
+C:\Users\ruben\Downloads\Projects\Funcionando\SolWebService\WebService\obj\Debug\WebService.dll
+C:\Users\ruben\Downloads\Projects\Funcionando\SolWebService\WebService\obj\Debug\WebService.pdb

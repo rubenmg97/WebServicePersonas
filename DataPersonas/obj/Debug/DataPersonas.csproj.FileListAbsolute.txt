@@ -1,0 +1,11 @@
+C:\Users\Ruben mg\Documents\Visual Studio 2015\Projects\Funcionando\SolWebService\DataPersonas\bin\Debug\DataPersonas.dll
+C:\Users\Ruben mg\Documents\Visual Studio 2015\Projects\Funcionando\SolWebService\DataPersonas\bin\Debug\DataPersonas.pdb
+C:\Users\Ruben mg\Documents\Visual Studio 2015\Projects\Funcionando\SolWebService\DataPersonas\obj\Debug\DataPersonas.csprojResolveAssemblyReference.cache
+C:\Users\Ruben mg\Documents\Visual Studio 2015\Projects\Funcionando\SolWebService\DataPersonas\obj\Debug\DataPersonas.dll
+C:\Users\Ruben mg\Documents\Visual Studio 2015\Projects\Funcionando\SolWebService\DataPersonas\obj\Debug\DataPersonas.pdb
+C:\Users\ruben\Downloads\Projects\Funcionando\SolWebService\DataPersonas\bin\Debug\DataPersonas.dll
+C:\Users\ruben\Downloads\Projects\Funcionando\SolWebService\DataPersonas\bin\Debug\DataPersonas.pdb
+C:\Users\ruben\Downloads\Projects\Funcionando\SolWebService\DataPersonas\obj\Debug\DataPersonas.csprojAssemblyReference.cache
+C:\Users\ruben\Downloads\Projects\Funcionando\SolWebService\DataPersonas\obj\Debug\DataPersonas.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Downloads\Projects\Funcionando\SolWebService\DataPersonas\obj\Debug\DataPersonas.dll
+C:\Users\ruben\Downloads\Projects\Funcionando\SolWebService\DataPersonas\obj\Debug\DataPersonas.pdb
